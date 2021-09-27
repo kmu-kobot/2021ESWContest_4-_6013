@@ -1,6 +1,8 @@
 [submodule "gasos-sensor"]
 	path = gasos-sensor
 	url = https://github.com/kmu-kobot/gasos-sensor.git
+
 [submodule "gasos-mobile"]
 	path = gasos-mobile
 	url = https://github.com/kmu-kobot/gasos-mobile.git
+	branch = master
